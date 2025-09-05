@@ -1,0 +1,15 @@
+{
+  "name": "dr-coringa-bot",
+  "version": "1.0.0",
+  "description": "Bot Dr. Coringa para WhatsApp - Autor: Dr. Coringa Lunático",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "baileys": "^6.7.18",
+    "pino": "^7.11.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
